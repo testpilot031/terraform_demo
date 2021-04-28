@@ -1,6 +1,6 @@
 variable "aws_region" {
   type    = string
-  default = "xxx"
+  default = "xxxx"
 }
 variable "aws_az_1" {
   type    = string
